@@ -1,0 +1,10 @@
+{
+  "name": "penasihat",
+  "version": "1.0.0",
+  "description": "brief-proyek: baca git bundle atau zip repo, hasilkan Instructions Project dan bundel Files dari fakta sumber, tanpa asumsi dan tanpa rahasia.",
+  "author": {
+    "name": "Pawang.dev"
+  },
+  "license": "MIT",
+  "keywords": ["project", "instructions", "git-bundle", "agent", "brief"]
+}

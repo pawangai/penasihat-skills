@@ -1,0 +1,14 @@
+{
+  "name": "penasihat-skills",
+  "description": "Skill untuk bekerja dengan agent AI: membuat paket Project claude.ai dari repo tanpa asumsi, dan kebiasaan penasihat untuk Settings.",
+  "owner": {
+    "name": "Pawang.dev"
+  },
+  "plugins": [
+    {
+      "name": "penasihat",
+      "source": "./plugins/penasihat",
+      "description": "brief-proyek: baca git bundle atau zip repo, hasilkan Instructions Project dan bundel Files dari fakta sumber, tanpa asumsi dan tanpa rahasia."
+    }
+  ]
+}
